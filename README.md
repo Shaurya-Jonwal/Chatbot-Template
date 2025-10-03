@@ -1,10 +1,9 @@
 # Chatbot Template 🤖  
 
 A simple open-source chatbot template in Python.  
-This repo shows **two versions** of a minimal chatbot:  
+This repo shows **one versions** of a minimal chatbot:  
 
-- **`main.py`** → synchronous chatbot (beginner-friendly, runs in the terminal).  
-- **`async_main.py`** → asynchronous chatbot (advanced, shows how to use `async/await`).  
+- **`main.py`** → this is a asynchronous chatbot and it can interact with you and give the question's answer with the web data it advanced, shows how to use `async/await`.  
 
 ---
 
